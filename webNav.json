@@ -31,6 +31,12 @@
 					"img": "http://gold-cdn.xitu.io/favicons/apple-touch-icon-57x57.png",
 					"site": "掘金",
 					"info": "只有高手分享的技术社区"
+				},
+				{
+					"item": "https://segmentfault.com",
+					"img": "https://static.segmentfault.com/v-59294a5a/global/img/favicon.ico",
+					"site": "SegmentFault",
+					"info": "一个能提高开发技能的社区"
 				}
 			]
 		},
@@ -48,6 +54,12 @@
 					"img": "https://angularjs.org/favicon.ico",
 					"site": "Angularjs",
 					"info": "Google开发的前端技术框架"
+				},
+				{
+					"item": "http://cn.vuejs.org",
+					"img": "http://cn.vuejs.org/images/logo.png",
+					"site": "Vue",
+					"info": "构建数据驱动的web界面的渐进式框架"
 				}
 			]
 		},
@@ -69,6 +81,12 @@
 					"img": "https://webpack.js.org/assets/favicon.ico",
 					"site": "webpack",
 					"info": "代码模块化构建打包工具"
+				},
+				{
+					"item": "http://www.gulpjs.com.cn/",
+					"img": "http://www.alloyteam.com/nav/static/images/gulp-favicon.png",
+					"site": "gulp",
+					"info": "基于流的自动化构建工具"
 				}
 			]
 		},
@@ -89,8 +107,38 @@
 				{
 					"item": "http://taobaofed.org/",
 					"img": "http://taobaofed.org/favicon.ico",
-					"site": "淘宝前端团队",
-					"info": "用技术为体验提供无限可能"
+					"site": "FED",
+					"info": "淘宝前端团队"
+				},
+				{
+					"item": "https://isux.tencent.com/",
+					"img": "http://www.alloyteam.com/nav/static/images/isux-favicon.jpg",
+					"site": "ISUX",
+					"info": "腾讯社交用户体验设计"
+				},
+				{
+					"item": "http://fex.baidu.com/",
+					"img": "http://www.alloyteam.com/nav/static/images/fex-favicon.png",
+					"site": "FEX",
+					"info": " 百度Web前端研发部出品"
+				},
+				{
+					"item": "http://www.alloyteam.com/",
+					"img": "http://cdn.alloyteam.com/assets/img/avatar-8f3f90.png",
+					"site": "AlloyTeam",
+					"info": "腾讯Web前端团队"
+				},
+				{
+					"item": "https://75team.com/",
+					"img": "http://www.alloyteam.com/nav/static/images/75team-favicon.png",
+					"site": "奇舞团",
+					"info": "奇虎360旗下前端开发团队"
+				},
+				{
+					"item": "https://aotu.io/",
+					"img": "https://aotu.io/img/apple-touch-icon-57x57.png",
+					"site": "凹凸实验室",
+					"info": "京东用户体验设计部"
 				}
 			]
 		},
@@ -124,6 +172,12 @@
 					"img": "https://github.com/fluidicon.png",
 					"site": "Github",
 					"info": "全球知名的开源及私有项目托管平台"
+				},
+				{
+					"item": "https://about.gitlab.com",
+					"img": "https://about.gitlab.com/ico/favicon-32x32.png",
+					"site": "Gitlab",
+					"info": "免费无限制的开源及私有项目托管"
 				}
 			]
 		},
