@@ -9,6 +9,10 @@
 					"img": "http://tb1.bdstatic.com/tb/favicon.ico",
 					"site": "百度",
 					"info": "简介简介简介简介简介简介简介简介"
+				},
+				{
+					"site": "google",
+					"info": "简介简介"
 				}
 			]
 		},
@@ -20,6 +24,40 @@
 					"img": "https://www.w3cplus.com/sites/all/themes/w3cplusV2/favicon.ico",
 					"site": "W3Cplus",
 					"info": "致力于推广国内前端行业的技术博客"
+				},
+				{
+					"item": "http://www.webhek.com",
+					"img": "http://www.webhek.com/wordpress/wp-content/themes/webhek2016/images/webhek-logo2.jpg",
+					"site": "web骇客",
+					"info": "关注HTML5、CSS3等浏览器前端技术"
+				},
+				{
+					"item": "http://www.reqianduan.com",
+					"site": "热前端",
+					"info": "良好的前端开发阅读学习网站"
+				},
+				{
+					"item": "http://www.yyyweb.com",
+					"img": "http://www.yyyweb.com/favicon.ico",
+					"site": "前端里",
+					"info": "专注web开发技术"
+				},
+				{
+					"item": "http://www.helloweba.com",
+					"img": "http://www.helloweba.com/favicon.ico",
+					"site": "Helloweba",
+					"info": "致力于WEB前端技术在中国的应用"
+				},
+				{
+					"item": "http://www.webwuyou.com",
+					"site": "前端无忧",
+					"info": "前端爱好者的乐园"
+				},
+				{
+					"item": "http://qianduan.guru",
+					"img": "http://qianduan.guru/favicon.ico",
+					"site": "前端外刊评论",
+					"info": "关注前端前沿技术，探寻业界深邃思想。"
 				}
 			]
 		},
@@ -37,11 +75,35 @@
 					"img": "https://static.segmentfault.com/v-59294a5a/global/img/favicon.ico",
 					"site": "SegmentFault",
 					"info": "一个能提高开发技能的社区"
+				},
+				{
+					"item": "https://www.v2ex.com/",
+					"img": "https://www.v2ex.com/static/img/icon_rayps_64.png",
+					"site": "V2EX",
+					"info": "一个关于分享和探索的地方"
+				},
+				{
+					"item": "https://w3ctech.com/",
+					"img": "https://img.w3ctech.com/logo-32.png",
+					"site": "w3ctech",
+					"info": "中国最大的前端技术社区"
+				},
+				{
+					"item": "https://cnodejs.org",
+					"img": "https://o4j806krb.qnssl.com/public/images/cnode_icon_32.png",
+					"site": "CNode",
+					"info": "Node.js专业中文社区"
+				},
+				{
+					"item": "http://www.oschina.net",
+					"img": "http://www.oschina.net/img/ie/logo_osc.png",
+					"site": "开源中国",
+					"info": "目前国内最大的开源技术社区"
 				}
 			]
 		},
 		{
-			"title": "前端框架",
+			"title": "框架类库",
 			"item": [
 				{
 					"item": "https://facebook.github.io/react/",
@@ -60,6 +122,18 @@
 					"img": "http://cn.vuejs.org/images/logo.png",
 					"site": "Vue",
 					"info": "构建数据驱动的web界面的渐进式框架"
+				},
+				{
+					"item": "http://www.jquery123.com/",
+					"img": "http://www.alloyteam.com/nav/static/images/jquery.png",
+					"site": "jQuery",
+					"info": "高效、精简并且功能丰富的 JavaScript 工具库"
+				},
+				{
+					"item": "http://www.bootcss.com/",
+					"img": "https://static.bootcss.com/www/assets/ico/favicon.png",
+					"site": "Bootstrap",
+					"info": "简洁、直观、强悍的前端开发框架"
 				}
 			]
 		},
@@ -178,6 +252,12 @@
 					"img": "https://about.gitlab.com/ico/favicon-32x32.png",
 					"site": "Gitlab",
 					"info": "免费无限制的开源及私有项目托管"
+				},
+				{
+					"item": "https://coding.net",
+					"img": "http://chuangzaoshi.com/assets/images/C/coding.png",
+					"site": "Coding",
+					"info": "面向开发者的云端开发托管平台"
 				}
 			]
 		},
@@ -195,6 +275,29 @@
 					"img": "https://hexo.io/icon/apple-touch-icon-60x60.png",
 					"site": "hexo",
 					"info": "比较极客的简洁轻便的博文平台"
+				},
+				{
+					"item": "http://jekyllrb.com",
+					"img": "http://jekyllrb.com/favicon.ico",
+					"site": "Jekyll",
+					"info": "简单静态网页博客程序"
+				}
+			]
+		},
+		{
+			"title": "前端周刊",
+			"item": [
+				{
+					"item": "http://weekly.manong.io/issues/",
+					"img": "http://weekly.qiniudn.com/icons/logo_57.jpg",
+					"site": "码农周刊",
+					"info": "专为程序员打造的IT技术周刊"
+				},
+				{
+					"item": "https://weekly.75team.com/",
+					"img": "http://www.alloyteam.com/nav/static/images/75team-favicon.png",
+					"site": "奇舞周刊",
+					"info": "汇聚前端精华"
 				}
 			]
 		}
