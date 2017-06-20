@@ -8,11 +8,31 @@
 					"item": "https://www.baidu.com/",
 					"img": "http://tb1.bdstatic.com/tb/favicon.ico",
 					"site": "百度",
-					"info": "简介简介简介简介简介简介简介简介"
+					"info": "全球最大中文搜索引擎"
 				},
 				{
 					"site": "google",
-					"info": "简介简介"
+					"info": "全球最大英语搜索引擎",
+					"item": "https://www.google.com",
+					"img": "https://www.google.com.hk/images/branding/product/ico/googleg_lodp.ico"
+				},
+				{
+					"item": "http://cn.bing.com/",
+					"img": "http://cn.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+					"site": "必应",
+					"info": "全球搜索，有问必应"
+				},
+				{
+					"item": "https://www.sogou.com/",
+					"img": "https://www.sogou.com/images/logo/new/favicon.ico?v=2",
+					"site": "搜狗",
+					"info": "上网从搜狗开始"
+				},
+				{
+					"item": "http://www.yahoo.com/",
+					"img": "https://www.yahoo.com/sy/rz/l/favicon.ico",
+					"site": "雅虎",
+					"info": "Yahoo!"
 				}
 			]
 		},
