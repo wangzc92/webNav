@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="https://get.mavo.io/mavo.css">
+	<link rel="stylesheet" href="style.css">
+	<script src="https://get.mavo.io/mavo.js"></script>
+</head>
+<body>
+	<main mv-app="webNav" class="mv-autoedit clearfix" mv-storage="https://github.com/wangzc92/webNav">
+		<aside>
+			<h1 property="name">前端导航</h1>
+			<ul class="nav">
+				<li property="nav" mv-multiple mv-value="category">
+					<a href="#[title]">[title]<span>[count(item)]</span></a>
+				</li>
+			</ul>
+			<footer>&copy;<a href="http://wangzc.cc" target="_blank">竹风欣海笑</a></footer>
+		</aside>
+		<article>
+			<section class="clearfix" id="[title]" property="category" mv-multiple>
+				<h2 property="title">导航标题</h2>
+				<a class="item" property="item" href="" mv-multiple target="_blank">
+					<div class="clearfix">
+						<img property="img" src="">
+						<h3 property="site">站点名称</h3>
+					</div>
+					<p property="info">简介简介简介简介简介简介简介简介</p>
+				</a>
+			</section>
+		</article>
+	</main>
+</body>
+</html>
