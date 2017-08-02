@@ -215,6 +215,12 @@
 					"img": "http://gold-cdn.xitu.io/favicons/apple-touch-icon-57x57.png",
 					"site": "掘金",
 					"info": "只有高手分享的技术社区"
+				},
+				{
+					"item": "https://segmentfault.com",
+					"img": "https://static.segmentfault.com/v-59294a5a/global/img/favicon.ico",
+					"site": "SegmentFault",
+					"info": "一个能提高开发技能的社区"
 				}
 			]
 		},
