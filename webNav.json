@@ -32,6 +32,12 @@
 					"img": "http://www.etymonline.com//favicon.ico",
 					"site": "词源查询",
 					"info": "etymonline"
+				},
+				{
+					"item": "https://stackoverflow.com/",
+					"img": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico",
+					"site": "SOF",
+					"info": "stackoverflow"
 				}
 			]
 		}
