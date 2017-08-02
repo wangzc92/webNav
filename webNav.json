@@ -132,6 +132,12 @@
 					"img": "https://www.gitbook.com/assets/images/templates/base-icon.svg",
 					"site": "GitBook",
 					"info": "电子书"
+				},
+				{
+					"item": "http://apistore.baidu.com/",
+					"img": "http://tb1.bdstatic.com/tb/favicon.ico",
+					"site": "API Store",
+					"info": "百度API商店"
 				}
 			]
 		},
@@ -149,6 +155,23 @@
 					"img": "https://mcache.ifanr.cn/static/trochili/desktop/src/img/base-icon/trochili-fav-192.png",
 					"site": "知晓程序",
 					"info": "小程序商店"
+				}
+			]
+		},
+		{
+			"title": "编程类工具",
+			"item": [
+				{
+					"item": "http://js2.coffee/",
+					"img": "http://js2.coffee/favicon.ico",
+					"site": "Js转Coffee",
+					"info": "转换工具"
+				},
+				{
+					"item": "http://mahua.jser.me/",
+					"img": "http://mahua.jser.me/mahua-logo.jpg",
+					"site": "MaHua",
+					"info": "一个在线编辑markdown文档的编辑器"
 				}
 			]
 		}
