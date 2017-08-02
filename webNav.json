@@ -79,6 +79,18 @@
 					"img": "https://fireeye.ijinshan.com/favicon.ico",
 					"site": "火眼",
 					"info": "在线分析文件"
+				},
+				{
+					"item": "http://zh.numberempire.com/",
+					"img": "http://zh.numberempire.com/favicon.ico",
+					"site": "数字帝国",
+					"info": "数学工具"
+				},
+				{
+					"item": "http://design-enzyme.com/UI-DNA/#/",
+					"img": "http://design-enzyme.com/favicon.ico",
+					"site": "UI-DNA",
+					"info": "设计构建工具"
 				}
 			]
 		},
