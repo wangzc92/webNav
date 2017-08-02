@@ -61,6 +61,11 @@
 					"img": "https://www.autodraw.com/assets/images/favicon.png",
 					"site": "autodraw",
 					"info": "来自谷歌AI"
+				},
+				{
+					"item": "https://earth.nullschool.net/zh-cn/#current/wind/surface/level/orthographic=-225.02,37.47,751/loc=148.931,40.786",
+					"img": "https://earth.nullschool.net/favicon.ico",
+					"site": "全球气流动向"
 				}
 			]
 		},
