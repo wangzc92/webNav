@@ -103,6 +103,18 @@
 					"img": "https://www.google.com.hk/images/branding/product/ico/googleg_lodp.ico",
 					"site": "谷歌翻译",
 					"info": "准确率高"
+				},
+				{
+					"item": "https://www.ngrok.cc/",
+					"img": "https://juejin.im/favicon.ico",
+					"site": "Ngrok",
+					"info": "内网转发"
+				},
+				{
+					"item": "http://naotu.baidu.com/home",
+					"img": "http://naotu.baidu.com/favicon.ico",
+					"site": "百度脑图",
+					"info": "脑图工具"
 				}
 			]
 		},
@@ -138,6 +150,18 @@
 					"img": "http://tb1.bdstatic.com/tb/favicon.ico",
 					"site": "API Store",
 					"info": "百度API商店"
+				},
+				{
+					"item": "http://www.iconfont.cn/plus",
+					"img": "http://www.iconfont.cn//favicon.ico",
+					"site": "iconfont",
+					"info": "阿里巴巴矢量图标库"
+				},
+				{
+					"item": "https://www.logojoy.com/generate",
+					"img": "http://stage.logojoy.com/wp-content/uploads/2017/07/og-logojoy.png",
+					"site": "logojoy",
+					"info": "Logo自助生成"
 				}
 			]
 		},
@@ -178,6 +202,30 @@
 					"img": "http://sc.ftqq.com/static/image/favlogo.png",
 					"site": "Server酱",
 					"info": "从服务器推报警和日志到手机的工具"
+				},
+				{
+					"item": "https://jitpack.io/",
+					"img": "https://jitpack.io/favicon.ico",
+					"site": "JitPack",
+					"info": "第三方依赖"
+				},
+				{
+					"item": "https://gogs.io/",
+					"img": "https://gogs.io/img/favicon.ico",
+					"site": "Gogs",
+					"info": "一款极易搭建的自助 Git 服务。"
+				},
+				{
+					"item": "https://fundebug.com/",
+					"img": "https://fundebug.com/favicon.ico",
+					"site": "fundebug",
+					"info": "全栈JavaScript错误监控"
+				},
+				{
+					"item": "http://www.tuling123.com/",
+					"img": "http://www.tuling123.com/resources/web/v4/img/trIntroduce/Pages_icon01.png",
+					"site": "图灵机器人",
+					"info": "AI机器人接口"
 				}
 			]
 		}
