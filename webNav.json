@@ -110,6 +110,17 @@
 					"info": "免安装，离线可用的图标生成器"
 				}
 			]
+		},
+		{
+			"title": "社区",
+			"item": [
+				{
+					"item": "http://www.oschina.net",
+					"img": "http://www.oschina.net/img/ie/logo_osc.png",
+					"site": "开源中国",
+					"info": "国内多大的开源社区"
+				}
+			]
 		}
 	]
 }
