@@ -91,6 +91,12 @@
 					"img": "http://design-enzyme.com/favicon.ico",
 					"site": "UI-DNA",
 					"info": "设计构建工具"
+				},
+				{
+					"item": "http://www.riaway.com/theme.php",
+					"img": "https://juejin.im/favicon.ico",
+					"site": "IDEA主题",
+					"info": "各种主题配置下载"
 				}
 			]
 		},
