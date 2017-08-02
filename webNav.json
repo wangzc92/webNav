@@ -27,6 +27,11 @@
 					"img": "https://fofa.so/imgs/fofa/logo.png",
 					"site": "FOFA",
 					"info": "互联网搜索引擎"
+				},
+				{
+					"img": "http://www.etymonline.com//favicon.ico",
+					"site": "词源查询",
+					"info": "etymonline"
 				}
 			]
 		}
