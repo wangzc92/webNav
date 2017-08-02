@@ -115,6 +115,12 @@
 					"img": "http://naotu.baidu.com/favicon.ico",
 					"site": "百度脑图",
 					"info": "脑图工具"
+				},
+				{
+					"item": "http://shakydraw.com/",
+					"img": "https://juejin.im/favicon.ico",
+					"site": "手绘流程图",
+					"info": "手绘风格"
 				}
 			]
 		},
