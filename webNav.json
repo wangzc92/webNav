@@ -143,7 +143,7 @@
 					"item": "https://www.gitbook.com/explore",
 					"img": "https://www.gitbook.com/assets/images/templates/base-icon.svg",
 					"site": "GitBook",
-					"info": "电子书"
+					"info": "各种电子书"
 				},
 				{
 					"item": "http://apistore.baidu.com/",
@@ -179,6 +179,24 @@
 					"img": "https://mcache.ifanr.cn/static/trochili/desktop/src/img/base-icon/trochili-fav-192.png",
 					"site": "知晓程序",
 					"info": "小程序商店"
+				},
+				{
+					"item": "https://github.com",
+					"img": "https://github.com/fluidicon.png",
+					"site": "Github",
+					"info": "全球知名的开源及私有项目托管平台"
+				},
+				{
+					"item": "https://codepen.io/",
+					"img": "https://codepen.io/favicon.ico",
+					"site": "CodePen",
+					"info": "各种炫酷特效"
+				},
+				{
+					"item": "https://gitee.com/",
+					"img": "https://gitee.com/favicon.ico",
+					"site": "码云",
+					"info": "开源中国代码系统"
 				}
 			]
 		},
