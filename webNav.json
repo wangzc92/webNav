@@ -5,13 +5,11 @@
 			"title": "搜索",
 			"item": [
 				{
+					"item": "https://www.google.com.hk",
 					"site": "谷歌HK",
-					"info": "https://www.google.com.hk"
+					"info": "谷歌"
 				}
 			]
-		},
-		{
-			"item": []
 		}
 	]
 }
