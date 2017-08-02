@@ -65,7 +65,7 @@
 				{
 					"item": "https://www.autodraw.com/",
 					"img": "https://www.autodraw.com/assets/images/favicon.png",
-					"site": "autodraw",
+					"site": "AutoDraw",
 					"info": "来自谷歌AI"
 				},
 				{
@@ -154,13 +154,13 @@
 				{
 					"item": "http://www.iconfont.cn/plus",
 					"img": "http://www.iconfont.cn//favicon.ico",
-					"site": "iconfont",
+					"site": "IconFont",
 					"info": "阿里巴巴矢量图标库"
 				},
 				{
 					"item": "https://www.logojoy.com/generate",
 					"img": "http://stage.logojoy.com/wp-content/uploads/2017/07/og-logojoy.png",
-					"site": "logojoy",
+					"site": "Logojoy",
 					"info": "Logo自助生成"
 				}
 			]
@@ -236,7 +236,7 @@
 				{
 					"item": "https://fundebug.com/",
 					"img": "https://fundebug.com/favicon.ico",
-					"site": "fundebug",
+					"site": "Fundebug",
 					"info": "全栈JavaScript错误监控"
 				},
 				{
