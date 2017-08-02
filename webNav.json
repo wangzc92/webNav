@@ -172,6 +172,12 @@
 					"img": "http://mahua.jser.me/mahua-logo.jpg",
 					"site": "MaHua",
 					"info": "一个在线编辑markdown文档的编辑器"
+				},
+				{
+					"item": "http://sc.ftqq.com/3.version",
+					"img": "http://sc.ftqq.com/static/image/favlogo.png",
+					"site": "Server酱",
+					"info": "从服务器推报警和日志到手机的工具"
 				}
 			]
 		}
