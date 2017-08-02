@@ -9,6 +9,12 @@
 					"img": "https://www.google.com.hk/images/branding/product/ico/googleg_lodp.ico",
 					"site": "谷歌HK",
 					"info": "谷歌香港节点"
+				},
+				{
+					"item": "https://haveibeenpwned.com",
+					"img": "https://haveibeenpwned.com/favicon.ico",
+					"site": "密码泄露查询",
+					"info": "密码泄露"
 				}
 			]
 		}
