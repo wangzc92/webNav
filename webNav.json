@@ -46,6 +46,34 @@
 					"info": "wikipedia"
 				}
 			]
+		},
+		{
+			"title": "工具",
+			"item": [
+				{
+					"item": "http://browsershots.org/",
+					"img": "http://browsershots.org/favicon.ico",
+					"site": "浏览器兼容性",
+					"info": "兼容性测试"
+				},
+				{
+					"item": "https://www.autodraw.com/",
+					"img": "https://www.autodraw.com/assets/images/favicon.png",
+					"site": "autodraw",
+					"info": "来自谷歌AI"
+				}
+			]
+		},
+		{
+			"title": "资源",
+			"item": [
+				{
+					"item": "https://icon.samemoment.com/index.html",
+					"img": "https://icon.samemoment.com/favicon.ico",
+					"site": "图标坊",
+					"info": "免安装，离线可用的图标生成器"
+				}
+			]
 		}
 	]
 }
