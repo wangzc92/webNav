@@ -21,6 +21,12 @@
 					"img": "http://yun.zhangxingqiu.cn/favicon.ico",
 					"site": "北邮人",
 					"info": "北邮人导航"
+				},
+				{
+					"item": "https://fofa.so/",
+					"img": "https://fofa.so/imgs/fofa/logo.png",
+					"site": "FOFA",
+					"info": "互联网搜索引擎"
 				}
 			]
 		}
