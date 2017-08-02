@@ -120,6 +120,12 @@
 					"img": "https://salttiger.com/favicon.ico",
 					"site": "SaltTiger",
 					"info": "每天一本编程书，每天进步一点点"
+				},
+				{
+					"item": "https://www.i4.cn/firmware.html",
+					"img": "https://www.i4.cn//favicon.ico",
+					"site": "IOS固件下载",
+					"info": "爱思助手"
 				}
 			]
 		},
