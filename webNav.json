@@ -121,6 +121,12 @@
 					"img": "https://juejin.im/favicon.ico",
 					"site": "手绘流程图",
 					"info": "手绘风格"
+				},
+				{
+					"item": "https://www.staticfile.org/",
+					"img": "https://www.staticfile.org/favicon.ico",
+					"site": "七牛CDN",
+					"info": "免费、快速、开放的 CDN 服务"
 				}
 			]
 		},
@@ -203,6 +209,12 @@
 					"img": "https://gitee.com/favicon.ico",
 					"site": "码云",
 					"info": "开源中国代码系统"
+				},
+				{
+					"item": "https://juejin.im/timeline",
+					"img": "http://gold-cdn.xitu.io/favicons/apple-touch-icon-57x57.png",
+					"site": "掘金",
+					"info": "只有高手分享的技术社区"
 				}
 			]
 		},
@@ -250,6 +262,12 @@
 					"img": "http://www.tuling123.com/resources/web/v4/img/trIntroduce/Pages_icon01.png",
 					"site": "图灵机器人",
 					"info": "AI机器人接口"
+				},
+				{
+					"item": "http://www.webjars.org",
+					"img": "http://www.webjars.org/assets/logo.png",
+					"site": "WebJars",
+					"info": "Web类库包装成Jar"
 				}
 			]
 		}
