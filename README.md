@@ -1,11 +1,5 @@
-title: ' 使用mavo制作可自定义编辑的导航页面'
-author: wangzc
-tags:
-  - mavo
-categories:
-  - WEB前端
-date: 2017-08-01 16:03:00
----
+# 使用mavo制作可自定义编辑的导航页面
+
 离职后，得闲整理前端这一年的收获。发现每个浏览器的书签都是满满的，这些都是平常关注前端动态留下的痕迹。意外发现一个好玩的东西——mavo,今天就用它来做一个前端导航页面。
 
 ![webNav](http://ofi3qxlvd.bkt.clouddn.com/150163313034620rgmif1.png?imageslim)
