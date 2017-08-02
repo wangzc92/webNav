@@ -126,6 +126,12 @@
 					"img": "https://www.i4.cn//favicon.ico",
 					"site": "IOS固件下载",
 					"info": "爱思助手"
+				},
+				{
+					"item": "https://www.gitbook.com/explore",
+					"img": "https://www.gitbook.com/assets/images/templates/base-icon.svg",
+					"site": "GitBook",
+					"info": "电子书"
 				}
 			]
 		},
