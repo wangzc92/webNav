@@ -2,13 +2,16 @@
 	"name": "前端导航",
 	"category": [
 		{
-			"title": "导航标题",
+			"title": "搜索",
 			"item": [
 				{
-					"site": "百度",
-					"info": "百度"
+					"site": "谷歌HK",
+					"info": "https://www.google.com.hk"
 				}
 			]
+		},
+		{
+			"item": []
 		}
 	]
 }
