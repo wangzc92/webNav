@@ -33,6 +33,10 @@
 					"img": "https://www.yahoo.com/sy/rz/l/favicon.ico",
 					"site": "雅虎",
 					"info": "Yahoo!"
+				},
+				{
+					"item": "baidu.com",
+					"site": "baidu.com"
 				}
 			]
 		},
